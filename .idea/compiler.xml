@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hrworker" />
+        <module name="hrpayroll" />
+        <module name="hreureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hreureka" target="11" />
+      <module name="hrpayroll" target="11" />
+      <module name="hrworker" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hreureka" options="-parameters" />
+      <module name="hrpayroll" options="-parameters" />
+      <module name="hrworker" options="-parameters" />
+    </option>
+  </component>
+</project>
