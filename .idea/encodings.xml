@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/hr-api-gateway-zuul/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hr-oauth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hr-oauth/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hr-user/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hr-user/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hrconfigserver/src/main/java" charset="UTF-8" />
